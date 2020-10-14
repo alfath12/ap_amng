@@ -1066,7 +1066,14 @@
       "nama_cat": "Among Us 6",
       "judul":"FImage 31",
       "image":"https://among-us.io/wp-content/gallery/mobile/AmongUs_mobile_wp13.jpg"
-    }
+    },
+    {
+      "id":132,
+      "id_wall":"132",
+      "nama_cat": "Among Us 6",
+      "judul":"FImage 32",
+      "image":"https://among-us.io/wp-content/gallery/mobile/AmongUs_mobile_wp4.jpg"
+    }  
 
   ]
 }
