@@ -9,7 +9,7 @@
         "interval": 6,
         "pengaturan_iklan":"1",
         
-        "fan_inter":"##",
+        "fan_inter":"#",
         "fan_banner_native":"#",
 
         "inmobi_inter":"#",
@@ -19,9 +19,9 @@
         "startaap":"1234567890",
         "hpk_admob1":"#",
         "hpk_admob2":"#",
-        "hpk_admob3":"#",
-        "hpk_admob4":"#",
-        "hpk_admob5":"#"
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
 
         }
     ],
@@ -105,6 +105,48 @@
     "judul":"4K Free Fire Wallpapers",
     "image":"https://appimg2.dbankcdn.com/application/icon144/65/cb676e8779be405da6fbd0aa33ac7d43.png",
     "link":"https://appgallery.huawei.com/#/app/C103033961"
+  },
+  {
+    "id":14,
+    "judul":"Fall Guys Wallpaper",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/6adaa1e7c7254f28a55d4121706eb12a.png",
+    "link":"https://appgallery.huawei.com/#/app/C103007475"
+  },
+  {
+    "id":15,
+    "judul":"PUBG Wallpapers 4K",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/044be08e6f0c4beda5d5fe1e292d1153.png",
+    "link":"https://appgallery.huawei.com/#/app/C103004863"
+  },
+  {
+    "id":16,
+    "judul":"Joker Wallpapers 4K",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
+    "link":"https://appgallery.huawei.com/#/app/C103002635"
+  },
+  {
+    "id":17,
+    "judul":"Among Us Walkthrough",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/02a6c3fd893647398d65e66abbd4492f.png",
+    "link":"https://appgallery.huawei.com/#/app/C103047009"
+  },
+  {
+    "id":18,
+    "judul":"Minecraft Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/960de4f625474f5fa45c073f297481e6.png",
+    "link":"https://appgallery.huawei.com/#/app/C103074619"
+  },
+  {
+    "id":19,
+    "judul":"Subway Surfer Wallpaper",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/d5bae873ba504a49ae3196fb52b941c6.png",
+    "link":"https://appgallery.huawei.com/#/app/C103065297"
+  },
+  {
+    "id":20,
+    "judul":"Sonic Wallpaper HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/65e92f717c4141e3a126404efe6fa12f.png",
+    "link":"https://appgallery.huawei.com/#/app/C103100369"
   }
 
   ],
