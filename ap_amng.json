@@ -42,9 +42,9 @@
   },
   {
     "id":3,
-    "judul":"Dragon Ball Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
-    "link":"https://appgallery.huawei.com/#/app/C102976603"
+    "judul":"Skin Among Us for Minecraft",
+    "image":"https://play-lh.googleusercontent.com/breYVybNXwBGnHbt4bgOdW41HLMk3MeTS0TpgUhKlTrhEUUvi0Fe453nFqinfXemtj0=s360",
+    "link":"https://play.google.com/store/apps/details?id=com.zackywalkthrough.skinsamongusaddonmaps"
   },
   {
     "id":4,
@@ -147,6 +147,12 @@
     "judul":"Sonic Wallpaper HD",
     "image":"https://appimg2.dbankcdn.com/application/icon144/65/65e92f717c4141e3a126404efe6fa12f.png",
     "link":"https://appgallery.huawei.com/#/app/C103100369"
+  },
+  {
+    "id":21,
+    "judul":"Dragon Ball Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
+    "link":"https://appgallery.huawei.com/#/app/C102976603"
   }
 
   ],
