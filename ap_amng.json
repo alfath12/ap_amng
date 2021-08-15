@@ -27,7 +27,13 @@
     ],
 
 "More":
-  [ 
+  [
+  {
+    "id":0,
+    "judul":"Wallcraft – Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
+    "link":"https://appgallery.huawei.com/#/app/C104531011"
+  },
   {
     "id":1,
     "judul":"Mobile Legend Wallpapers 4K",
