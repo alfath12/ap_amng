@@ -29,16 +29,10 @@
 "More":
   [
   {
-    "id":0,
+    "id":1,
     "judul":"Wallcraft – Wallpapers HD",
     "image":"https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
     "link":"https://appgallery.huawei.com/#/app/C104531011"
-  },
-  {
-    "id":1,
-    "judul":"Mobile Legend Wallpapers 4K",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
-    "link":"https://appgallery.huawei.com/#/app/C102987745"
   },
   {
     "id":2,
@@ -159,7 +153,13 @@
     "judul":"Dragon Ball Wallpapers",
     "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
     "link":"https://appgallery.huawei.com/#/app/C102976603"
-  }
+  },
+  {
+    "id":22,
+    "judul":"Mobile Legend Wallpapers 4K",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
+    "link":"https://appgallery.huawei.com/#/app/C102987745"
+  },
 
   ],
   
