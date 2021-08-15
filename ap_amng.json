@@ -1,1329 +1,1312 @@
-{ "Iklan": [
-        {
-        "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=com.",
-      
-        "interid": "ca-app-pub-3940256099942544/1033173712",
-        "nativeid": "ca-app-pub-3940256099942544/2247696110",
-        "openads":"ca-app-pub-3940256099942544/1033173712",
-        "interval": 6,
-        "pengaturan_iklan":"1",
-        
-        "fan_inter":"#",
-        "fan_banner_native":"#",
-
-        "inmobi_inter":"#",
-        "inmobi_banner":"#",
-        "inmobi_id":"#",
-        
-        "startaap":"00000",
-        "hpk_admob1":"##",
-        "hpk_admob2":"##",
-        "hpk_admob3":"##",
-        "hpk_admob4":"##",
-        "hpk_admob5":"#"
-
-        }
-    ],
-
-"More":
-  [
-  {
-    "id":1,
-    "judul":"Wallcraft – Wallpapers HD",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
-    "link":"https://appgallery.huawei.com/#/app/C104531011"
-  },
-  {
-    "id":2,
-    "judul":"Brawlhalla Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
-    "link":"https://appgallery.huawei.com/#/app/C102703635"
-  },
-  {
-    "id":3,
-    "judul":"Skin Among Us for Minecraft",
-    "image":"https://play-lh.googleusercontent.com/breYVybNXwBGnHbt4bgOdW41HLMk3MeTS0TpgUhKlTrhEUUvi0Fe453nFqinfXemtj0=s360",
-    "link":"https://play.google.com/store/apps/details?id=com.zackywalkthrough.skinsamongusaddonmaps"
-  },
-  {
-    "id":4,
-    "judul":"Cute Ice Cream Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575731"
-  },
-  {
-    "id":5,
-    "judul":"Cute Panda Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575711"
-  },
-  {
-    "id":6,
-    "judul":"Cute BT21 Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575721"
-  },
-  {
-    "id":7,
-    "judul":"Cute Kawaii Bunny Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575733"
-  },
-  {
-    "id":8,
-    "judul":"Cute Gacha Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
-    "link":"https://appgallery.huawei.com/#/app/C102575745"
-  },
-  {
-    "id":9,
-    "judul":"Cute Hello Kitty Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
-    "link":"https://appgallery.huawei.com/#/app/C102984609"
-  },
-  {
-    "id":10,
-    "judul":"Happy New Year 2021 Photo Frames",
-    "image":"https://lh3.googleusercontent.com/tL7EVDaxXNRUpaHZO0_I5SFXwHQWz3WtIYx-wfnXn8J2YPrUNQljP86YagghuDb8EyM=s360",
-    "link":"https://play.google.com/store/apps/details?id=com.builddevapps.bingkaifototahunbaru2021happynewyear"
-  },
-  {
-    "id":11,
-    "judul":"Sticker Happy New Year 2021",
-    "image":"https://lh3.googleusercontent.com/VLSqowglMMqGguPNgvppQ8RairTr5gxaFkSKHzq8eq7LussCI6ErruBYJvt0glbJq9uZ=s360",
-    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.stickermemojihappynewyear2021wastickerapps"
-  },
-  {
-    "id":12,
-    "judul":"2021 Photo Frame New Year",
-    "image":"https://lh3.googleusercontent.com/nlW2IpeoKUpg2KmS7ldcaz4PjptwGIdU141PS6svz7weYqYcwM04ClJ3wlReM_ctXFUd=s360",
-    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.bingkaifototahunbaru2021happynewyear"
-  },
-  {
-    "id":13,
-    "judul":"4K Free Fire Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/cb676e8779be405da6fbd0aa33ac7d43.png",
-    "link":"https://appgallery.huawei.com/#/app/C103033961"
-  },
-  {
-    "id":14,
-    "judul":"Fall Guys Wallpaper",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/6adaa1e7c7254f28a55d4121706eb12a.png",
-    "link":"https://appgallery.huawei.com/#/app/C103007475"
-  },
-  {
-    "id":15,
-    "judul":"PUBG Wallpapers 4K",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/044be08e6f0c4beda5d5fe1e292d1153.png",
-    "link":"https://appgallery.huawei.com/#/app/C103004863"
-  },
-  {
-    "id":16,
-    "judul":"Joker Wallpapers 4K",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
-    "link":"https://appgallery.huawei.com/#/app/C103002635"
-  },
-  {
-    "id":17,
-    "judul":"Among Us Walkthrough",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/02a6c3fd893647398d65e66abbd4492f.png",
-    "link":"https://appgallery.huawei.com/#/app/C103047009"
-  },
-  {
-    "id":18,
-    "judul":"Minecraft Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/960de4f625474f5fa45c073f297481e6.png",
-    "link":"https://appgallery.huawei.com/#/app/C103074619"
-  },
-  {
-    "id":19,
-    "judul":"Subway Surfer Wallpaper",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/d5bae873ba504a49ae3196fb52b941c6.png",
-    "link":"https://appgallery.huawei.com/#/app/C103065297"
-  },
-  {
-    "id":20,
-    "judul":"Sonic Wallpaper HD",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/65e92f717c4141e3a126404efe6fa12f.png",
-    "link":"https://appgallery.huawei.com/#/app/C103100369"
-  },
-  {
-    "id":21,
-    "judul":"Dragon Ball Wallpapers",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
-    "link":"https://appgallery.huawei.com/#/app/C102976603"
-  },
-  {
-    "id":22,
-    "judul":"Mobile Legend Wallpapers 4K",
-    "image":"https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
-    "link":"https://appgallery.huawei.com/#/app/C102987745"
-  },
-
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "openads": "ca-app-pub-3940256099942544/1033173712",
+      "interval": 6,
+      "pengaturan_iklan": "1",
+      "fan_inter": "#",
+      "fan_banner_native": "#",
+      "inmobi_inter": "#",
+      "inmobi_banner": "#",
+      "inmobi_id": "#",
+      "startaap": "00000",
+      "hpk_admob1": "##",
+      "hpk_admob2": "##",
+      "hpk_admob3": "##",
+      "hpk_admob4": "##",
+      "hpk_admob5": "##"
+    }
   ],
-  
+  "More": [
+    {
+      "id": 1,
+      "judul": "Wallcraft – Wallpapers HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
+      "link": "https://appgallery.huawei.com/#/app/C104531011"
+    },
+    {
+      "id": 2,
+      "judul": "Brawlhalla Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
+      "link": "https://appgallery.huawei.com/#/app/C102703635"
+    },
+    {
+      "id": 3,
+      "judul": "Skin Among Us for Minecraft",
+      "image": "https://play-lh.googleusercontent.com/breYVybNXwBGnHbt4bgOdW41HLMk3MeTS0TpgUhKlTrhEUUvi0Fe453nFqinfXemtj0=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.zackywalkthrough.skinsamongusaddonmaps"
+    },
+    {
+      "id": 4,
+      "judul": "Cute Ice Cream Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575731"
+    },
+    {
+      "id": 5,
+      "judul": "Cute Panda Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575711"
+    },
+    {
+      "id": 6,
+      "judul": "Cute BT21 Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575721"
+    },
+    {
+      "id": 7,
+      "judul": "Cute Kawaii Bunny Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575733"
+    },
+    {
+      "id": 8,
+      "judul": "Cute Gacha Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575745"
+    },
+    {
+      "id": 9,
+      "judul": "Cute Hello Kitty Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
+      "link": "https://appgallery.huawei.com/#/app/C102984609"
+    },
+    {
+      "id": 10,
+      "judul": "Happy New Year 2021 Photo Frames",
+      "image": "https://lh3.googleusercontent.com/tL7EVDaxXNRUpaHZO0_I5SFXwHQWz3WtIYx-wfnXn8J2YPrUNQljP86YagghuDb8EyM=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.builddevapps.bingkaifototahunbaru2021happynewyear"
+    },
+    {
+      "id": 11,
+      "judul": "Sticker Happy New Year 2021",
+      "image": "https://lh3.googleusercontent.com/VLSqowglMMqGguPNgvppQ8RairTr5gxaFkSKHzq8eq7LussCI6ErruBYJvt0glbJq9uZ=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.goplaytones.stickermemojihappynewyear2021wastickerapps"
+    },
+    {
+      "id": 12,
+      "judul": "2021 Photo Frame New Year",
+      "image": "https://lh3.googleusercontent.com/nlW2IpeoKUpg2KmS7ldcaz4PjptwGIdU141PS6svz7weYqYcwM04ClJ3wlReM_ctXFUd=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.goplaytones.bingkaifototahunbaru2021happynewyear"
+    },
+    {
+      "id": 13,
+      "judul": "4K Free Fire Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/cb676e8779be405da6fbd0aa33ac7d43.png",
+      "link": "https://appgallery.huawei.com/#/app/C103033961"
+    },
+    {
+      "id": 14,
+      "judul": "Fall Guys Wallpaper",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/6adaa1e7c7254f28a55d4121706eb12a.png",
+      "link": "https://appgallery.huawei.com/#/app/C103007475"
+    },
+    {
+      "id": 15,
+      "judul": "PUBG Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/044be08e6f0c4beda5d5fe1e292d1153.png",
+      "link": "https://appgallery.huawei.com/#/app/C103004863"
+    },
+    {
+      "id": 16,
+      "judul": "Joker Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
+      "link": "https://appgallery.huawei.com/#/app/C103002635"
+    },
+    {
+      "id": 17,
+      "judul": "Among Us Walkthrough",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/02a6c3fd893647398d65e66abbd4492f.png",
+      "link": "https://appgallery.huawei.com/#/app/C103047009"
+    },
+    {
+      "id": 18,
+      "judul": "Minecraft Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/960de4f625474f5fa45c073f297481e6.png",
+      "link": "https://appgallery.huawei.com/#/app/C103074619"
+    },
+    {
+      "id": 19,
+      "judul": "Subway Surfer Wallpaper",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/d5bae873ba504a49ae3196fb52b941c6.png",
+      "link": "https://appgallery.huawei.com/#/app/C103065297"
+    },
+    {
+      "id": 20,
+      "judul": "Sonic Wallpaper HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/65e92f717c4141e3a126404efe6fa12f.png",
+      "link": "https://appgallery.huawei.com/#/app/C103100369"
+    },
+    {
+      "id": 21,
+      "judul": "Dragon Ball Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
+      "link": "https://appgallery.huawei.com/#/app/C102976603"
+    },
+    {
+      "id": 22,
+      "judul": "Mobile Legend Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
+      "link": "https://appgallery.huawei.com/#/app/C102987745"
+    }
+  ],
   "Categories": [
     {
       "id": 1,
       "nama_cat": "Among Us 1",
       "gambar": "https://iili.io/2GvZNe.jpg"
-     
     },
     {
       "id": 2,
       "nama_cat": "Among Us 2",
       "gambar": "https://iili.io/2GvLH7.jpg"
-    
     },
     {
       "id": 3,
       "nama_cat": "Among Us 3",
       "gambar": "https://iili.io/2GvQR9.jpg"
-    
     },
-	{
+    {
       "id": 4,
       "nama_cat": "Among Us 4",
       "gambar": "https://iili.io/2GviSS.jpg"
-     
     },
     {
       "id": 5,
       "nama_cat": "Among Us 5",
       "gambar": "https://iili.io/2GvPl2.jpg"
-    
     },
     {
       "id": 6,
       "nama_cat": "Among Us 6",
       "gambar": "https://iili.io/2Gv6Kl.jpg"
-    
     }
   ],
-
-  "Wallpaper":
-  [ 
+  "Wallpaper": [
     {
-      "id":1,
-      "id_wall":"001",
+      "id": 1,
+      "id_wall": "001",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 1",
-      "image":"https://iili.io/2GNnIf.jpg"
+      "judul": "AImage 1",
+      "image": "https://iili.io/2GNnIf.jpg"
     },
     {
-      "id":2,
-      "id_wall":"002",
+      "id": 2,
+      "id_wall": "002",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 2",
-      "image":"https://iili.io/2GNIB2.jpg"
+      "judul": "AImage 2",
+      "image": "https://iili.io/2GNIB2.jpg"
     },
     {
-      "id":3,
-      "id_wall":"003",
+      "id": 3,
+      "id_wall": "003",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 3",
-      "image":"https://iili.io/2GNoX4.jpg"
+      "judul": "AImage 3",
+      "image": "https://iili.io/2GNoX4.jpg"
     },
     {
-      "id":4,
-      "id_wall":"004",
+      "id": 4,
+      "id_wall": "004",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 4",
-      "image":"https://iili.io/2GNxLl.jpg"
+      "judul": "AImage 4",
+      "image": "https://iili.io/2GNxLl.jpg"
     },
     {
-      "id":5,
-      "id_wall":"005",
+      "id": 5,
+      "id_wall": "005",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 5",
-      "image":"https://iili.io/2GNT1S.jpg"
+      "judul": "AImage 5",
+      "image": "https://iili.io/2GNT1S.jpg"
     },
     {
-      "id":6,
-      "id_wall":"006",
+      "id": 6,
+      "id_wall": "006",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 6",
-      "image":"https://iili.io/2GNur7.jpg"
+      "judul": "AImage 6",
+      "image": "https://iili.io/2GNur7.jpg"
     },
-	{
-      "id":7,
-      "id_wall":"007",
+    {
+      "id": 7,
+      "id_wall": "007",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 7",
-      "image":"https://iili.io/2GNR29.jpg"
+      "judul": "AImage 7",
+      "image": "https://iili.io/2GNR29.jpg"
     },
     {
-      "id":8,
-      "id_wall":"008",
+      "id": 8,
+      "id_wall": "008",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 8",
-      "image":"https://iili.io/2GN7ku.jpg"
+      "judul": "AImage 8",
+      "image": "https://iili.io/2GN7ku.jpg"
     },
     {
-      "id":9,
-      "id_wall":"009",
+      "id": 9,
+      "id_wall": "009",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 9",
-      "image":"https://iili.io/2GN57e.jpg"
+      "judul": "AImage 9",
+      "image": "https://iili.io/2GN57e.jpg"
     },
     {
-      "id":10,
-      "id_wall":"010",
+      "id": 10,
+      "id_wall": "010",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 10",
-      "image":"https://iili.io/2GNYmb.jpg"
+      "judul": "AImage 10",
+      "image": "https://iili.io/2GNYmb.jpg"
     },
     {
-      "id":11,
-      "id_wall":"011",
+      "id": 11,
+      "id_wall": "011",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 11",
-      "image":"https://iili.io/2GNcIj.jpg"
+      "judul": "AImage 11",
+      "image": "https://iili.io/2GNcIj.jpg"
     },
     {
-      "id":12,
-      "id_wall":"012",
+      "id": 12,
+      "id_wall": "012",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 12",
-      "image":"https://iili.io/2GNlhx.jpg"
+      "judul": "AImage 12",
+      "image": "https://iili.io/2GNlhx.jpg"
     },
-	{
-      "id":13,
-      "id_wall":"013",
+    {
+      "id": 13,
+      "id_wall": "013",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 13",
-      "image":"https://iili.io/2GN0LQ.jpg"
+      "judul": "AImage 13",
+      "image": "https://iili.io/2GN0LQ.jpg"
     },
     {
-      "id":14,
-      "id_wall":"014",
+      "id": 14,
+      "id_wall": "014",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 14",
-      "image":"https://iili.io/2GNEBV.jpg"
+      "judul": "AImage 14",
+      "image": "https://iili.io/2GNEBV.jpg"
     },
-      {
-      "id":15,
-      "id_wall":"015",
+    {
+      "id": 15,
+      "id_wall": "015",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 15",
-      "image":"https://iili.io/2GNGEB.jpg"
+      "judul": "AImage 15",
+      "image": "https://iili.io/2GNGEB.jpg"
     },
     {
-      "id":16,
-      "id_wall":"016",
+      "id": 16,
+      "id_wall": "016",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 16",
-      "image":"https://iili.io/2GNMrP.jpg"
+      "judul": "AImage 16",
+      "image": "https://iili.io/2GNMrP.jpg"
     },
-	{
-      "id":17,
-      "id_wall":"017",
+    {
+      "id": 17,
+      "id_wall": "017",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 17",
-      "image":"https://iili.io/2GNW21.jpg"
+      "judul": "AImage 17",
+      "image": "https://iili.io/2GNW21.jpg"
     },
     {
-      "id":18,
-      "id_wall":"018",
+      "id": 18,
+      "id_wall": "018",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 18",
-      "image":"https://iili.io/2GNXYF.jpg"
+      "judul": "AImage 18",
+      "image": "https://iili.io/2GNXYF.jpg"
     },
-      {
-      "id":19,
-      "id_wall":"019",
+    {
+      "id": 19,
+      "id_wall": "019",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 19",
-      "image":"https://iili.io/2GNhkg.jpg"
+      "judul": "AImage 19",
+      "image": "https://iili.io/2GNhkg.jpg"
     },
     {
-      "id":20,
-      "id_wall":"020",
+      "id": 20,
+      "id_wall": "020",
       "nama_cat": "Among Us 1",
-      "judul":"AImage 20",
-      "image":"https://iili.io/2GNjpa.jpg"
+      "judul": "AImage 20",
+      "image": "https://iili.io/2GNjpa.jpg"
     },
-	{
-      "id":21,
-      "id_wall":"021",
+    {
+      "id": 21,
+      "id_wall": "021",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 1",
-      "image":"https://iili.io/2GNOhv.jpg"
+      "judul": "BImage 1",
+      "image": "https://iili.io/2GNOhv.jpg"
     },
     {
-      "id":22,
-      "id_wall":"022",
+      "id": 22,
+      "id_wall": "022",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 2",
-      "image":"https://iili.io/2GNNTJ.jpg"
+      "judul": "BImage 2",
+      "image": "https://iili.io/2GNNTJ.jpg"
     },
     {
-      "id":23,
-      "id_wall":"023",
+      "id": 23,
+      "id_wall": "023",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 3",
-      "image":"https://iili.io/2GNeQR.jpg"
+      "judul": "BImage 3",
+      "image": "https://iili.io/2GNeQR.jpg"
     },
     {
-      "id":24,
-      "id_wall":"024",
+      "id": 24,
+      "id_wall": "024",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 4",
-      "image":"https://iili.io/2GNvBp.jpg"
+      "judul": "BImage 4",
+      "image": "https://iili.io/2GNvBp.jpg"
     },
     {
-      "id":25,
-      "id_wall":"025",
+      "id": 25,
+      "id_wall": "025",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 5",
-      "image":"https://iili.io/2GN8EN.jpg"
+      "judul": "BImage 5",
+      "image": "https://iili.io/2GN8EN.jpg"
     },
     {
-      "id":26,
-      "id_wall":"026",
+      "id": 26,
+      "id_wall": "026",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 6",
-      "image":"https://iili.io/2GNS4I.jpg"
+      "judul": "BImage 6",
+      "image": "https://iili.io/2GNS4I.jpg"
     },
-	{
-      "id":27,
-      "id_wall":"027",
+    {
+      "id": 27,
+      "id_wall": "027",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 7",
-      "image":"https://iili.io/2GNrYX.jpg"
+      "judul": "BImage 7",
+      "image": "https://iili.io/2GNrYX.jpg"
     },
     {
-      "id":28,
-      "id_wall":"028",
+      "id": 28,
+      "id_wall": "028",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 8",
-      "image":"https://iili.io/2GNg2t.jpg"
+      "judul": "BImage 8",
+      "image": "https://iili.io/2GNg2t.jpg"
     },
     {
-      "id":29,
-      "id_wall":"029",
+      "id": 29,
+      "id_wall": "029",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 9",
-      "image":"https://iili.io/2GN6ps.jpg"
+      "judul": "BImage 9",
+      "image": "https://iili.io/2GN6ps.jpg"
     },
     {
-      "id":30,
-      "id_wall":"030",
+      "id": 30,
+      "id_wall": "030",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 10",
-      "image":"https://iili.io/2GN4vn.jpg"
+      "judul": "BImage 10",
+      "image": "https://iili.io/2GN4vn.jpg"
     },
     {
-      "id":31,
-      "id_wall":"031",
+      "id": 31,
+      "id_wall": "031",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 11",
-      "image":"https://iili.io/2GNsjf.jpg"
+      "judul": "BImage 11",
+      "image": "https://iili.io/2GNsjf.jpg"
     },
     {
-      "id":32,
-      "id_wall":"032",
+      "id": 32,
+      "id_wall": "032",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 12",
-      "image":"https://iili.io/2GNiTG.jpg"
+      "judul": "BImage 12",
+      "image": "https://iili.io/2GNiTG.jpg"
     },
-	{
-      "id":33,
-      "id_wall":"033",
+    {
+      "id": 33,
+      "id_wall": "033",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 13",
-      "image":"https://iili.io/2GNLQ4.jpg"
+      "judul": "BImage 13",
+      "image": "https://iili.io/2GNLQ4.jpg"
     },
     {
-      "id":34,
-      "id_wall":"034",
+      "id": 34,
+      "id_wall": "034",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 14",
-      "image":"https://iili.io/2GNZCl.jpg"
+      "judul": "BImage 14",
+      "image": "https://iili.io/2GNZCl.jpg"
     },
-      {
-      "id":35,
-      "id_wall":"035",
+    {
+      "id": 35,
+      "id_wall": "035",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 15",
-      "image":"https://iili.io/2GNtG2.jpg"
+      "judul": "BImage 15",
+      "image": "https://iili.io/2GNtG2.jpg"
     },
     {
-      "id":36,
-      "id_wall":"036",
+      "id": 36,
+      "id_wall": "036",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 16",
-      "image":"https://iili.io/2GND4S.jpg"
+      "judul": "BImage 16",
+      "image": "https://iili.io/2GND4S.jpg"
     },
-	{
-      "id":37,
-      "id_wall":"037",
+    {
+      "id": 37,
+      "id_wall": "037",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 17",
-      "image":"https://iili.io/2GNm37.jpg"
+      "judul": "BImage 17",
+      "image": "https://iili.io/2GNm37.jpg"
     },
     {
-      "id":38,
-      "id_wall":"038",
+      "id": 38,
+      "id_wall": "038",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 18",
-      "image":"https://iili.io/2GNpa9.jpg"
+      "judul": "BImage 18",
+      "image": "https://iili.io/2GNpa9.jpg"
     },
-      {
-      "id":39,
-      "id_wall":"039",
+    {
+      "id": 39,
+      "id_wall": "039",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 19",
-      "image":"https://iili.io/2GNyve.jpg"
+      "judul": "BImage 19",
+      "image": "https://iili.io/2GNyve.jpg"
     },
     {
-      "id":40,
-      "id_wall":"040",
+      "id": 40,
+      "id_wall": "040",
       "nama_cat": "Among Us 2",
-      "judul":"BImage 20",
-      "image":"https://iili.io/2GO9yu.jpg"
+      "judul": "BImage 20",
+      "image": "https://iili.io/2GO9yu.jpg"
     },
-	{
-      "id":41,
-      "id_wall":"041",
+    {
+      "id": 41,
+      "id_wall": "041",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 1",
-      "image":"https://iili.io/2GOJTb.jpg"
+      "judul": "CImage 1",
+      "image": "https://iili.io/2GOJTb.jpg"
     },
     {
-      "id":42,
-      "id_wall":"042",
+      "id": 42,
+      "id_wall": "042",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 2",
-      "image":"https://iili.io/2GO2Zx.jpg"
+      "judul": "CImage 2",
+      "image": "https://iili.io/2GO2Zx.jpg"
     },
     {
-      "id":43,
-      "id_wall":"043",
+      "id": 43,
+      "id_wall": "043",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 3",
-      "image":"https://iili.io/2GOdjj.jpg"
+      "judul": "CImage 3",
+      "image": "https://iili.io/2GOdjj.jpg"
     },
     {
-      "id":44,
-      "id_wall":"044",
+      "id": 44,
+      "id_wall": "044",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 4",
-      "image":"https://iili.io/2GOFCQ.jpg"
+      "judul": "CImage 4",
+      "image": "https://iili.io/2GOFCQ.jpg"
     },
     {
-      "id":45,
-      "id_wall":"045",
+      "id": 45,
+      "id_wall": "045",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 5",
-      "image":"https://iili.io/2GOKGV.jpg"
+      "judul": "CImage 5",
+      "image": "https://iili.io/2GOKGV.jpg"
     },
     {
-      "id":46,
-      "id_wall":"046",
+      "id": 46,
+      "id_wall": "046",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 6",
-      "image":"https://iili.io/2GOf6B.jpg"
+      "judul": "CImage 6",
+      "image": "https://iili.io/2GOf6B.jpg"
     },
-	{
-      "id":47,
-      "id_wall":"047",
+    {
+      "id": 47,
+      "id_wall": "047",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 7",
-      "image":"https://iili.io/2GOCa1.jpg"
+      "judul": "CImage 7",
+      "image": "https://iili.io/2GOCa1.jpg"
     },
     {
-      "id":48,
-      "id_wall":"048",
+      "id": 48,
+      "id_wall": "048",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 8",
-      "image":"https://iili.io/2GOB3P.jpg"
+      "judul": "CImage 8",
+      "image": "https://iili.io/2GOB3P.jpg"
     },
     {
-      "id":49,
-      "id_wall":"049",
+      "id": 49,
+      "id_wall": "049",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 9",
-      "image":"https://iili.io/2GOn8F.jpg"
+      "judul": "CImage 9",
+      "image": "https://iili.io/2GOn8F.jpg"
     },
     {
-      "id":50,
-      "id_wall":"050",
+      "id": 50,
+      "id_wall": "050",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 10",
-      "image":"https://iili.io/2GOoyg.jpg"
+      "judul": "CImage 10",
+      "image": "https://iili.io/2GOoyg.jpg"
     },
     {
-      "id":51,
-      "id_wall":"051",
+      "id": 51,
+      "id_wall": "051",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 11",
-      "image":"https://iili.io/2GOzua.jpg"
+      "judul": "CImage 11",
+      "image": "https://iili.io/2GOzua.jpg"
     },
     {
-      "id":52,
-      "id_wall":"052",
+      "id": 52,
+      "id_wall": "052",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 12",
-      "image":"https://iili.io/2GORGp.jpg"
+      "judul": "CImage 12",
+      "image": "https://iili.io/2GORGp.jpg"
     },
-	{
-      "id":53,
-      "id_wall":"053",
+    {
+      "id": 53,
+      "id_wall": "053",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 13",
-      "image":"https://iili.io/2GOIwJ.jpg"
+      "judul": "CImage 13",
+      "image": "https://iili.io/2GOIwJ.jpg"
     },
     {
-      "id":54,
-      "id_wall":"054",
+      "id": 54,
+      "id_wall": "054",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 14",
-      "image":"https://iili.io/2GOTZv.jpg"
+      "judul": "CImage 14",
+      "image": "https://iili.io/2GOTZv.jpg"
     },
-      {
-      "id":55,
-      "id_wall":"055",
+    {
+      "id": 55,
+      "id_wall": "055",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 15",
-      "image":"https://iili.io/2GOAnR.jpg"
+      "judul": "CImage 15",
+      "image": "https://iili.io/2GOAnR.jpg"
     },
     {
-      "id":56,
-      "id_wall":"056",
+      "id": 56,
+      "id_wall": "056",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 16",
-      "image":"https://iili.io/2GOYFI.jpg"
+      "judul": "CImage 16",
+      "image": "https://iili.io/2GOYFI.jpg"
     },
-	{
-      "id":57,
-      "id_wall":"057",
+    {
+      "id": 57,
+      "id_wall": "057",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 17",
-      "image":"https://iili.io/2GO56N.jpg"
+      "judul": "CImage 17",
+      "image": "https://iili.io/2GO56N.jpg"
     },
     {
-      "id":58,
-      "id_wall":"058",
+      "id": 58,
+      "id_wall": "058",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 18",
-      "image":"https://iili.io/2GOc8X.jpg"
+      "judul": "CImage 18",
+      "image": "https://iili.io/2GOc8X.jpg"
     },
-      {
-      "id":59,
-      "id_wall":"059",
+    {
+      "id": 59,
+      "id_wall": "059",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 19",
-      "image":"https://iili.io/2GOaat.jpg"
+      "judul": "CImage 19",
+      "image": "https://iili.io/2GOaat.jpg"
     },
     {
-      "id":60,
-      "id_wall":"060",
+      "id": 60,
+      "id_wall": "060",
       "nama_cat": "Among Us 3",
-      "judul":"CImage 20",
-      "image":"https://iili.io/2GO09n.jpg"
+      "judul": "CImage 20",
+      "image": "https://iili.io/2GO09n.jpg"
     },
-	{
-      "id":61,
-      "id_wall":"061",
+    {
+      "id": 61,
+      "id_wall": "061",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 1",
-      "image":"https://iili.io/2GO1us.jpg"
+      "judul": "DImage 1",
+      "image": "https://iili.io/2GO1us.jpg"
     },
     {
-      "id":62,
-      "id_wall":"062",
+      "id": 62,
+      "id_wall": "062",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 2",
-      "image":"https://iili.io/2GOEwG.jpg"
+      "judul": "DImage 2",
+      "image": "https://iili.io/2GOEwG.jpg"
     },
     {
-      "id":63,
-      "id_wall":"063",
+      "id": 63,
+      "id_wall": "063",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 3",
-      "image":"https://iili.io/2GOGtf.jpg"
+      "judul": "DImage 3",
+      "image": "https://iili.io/2GOGtf.jpg"
     },
     {
-      "id":64,
-      "id_wall":"064",
+      "id": 64,
+      "id_wall": "064",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 4",
-      "image":"urlgambar"
+      "judul": "DImage 4",
+      "image": "urlgambar"
     },
     {
-      "id":65,
-      "id_wall":"065",
+      "id": 65,
+      "id_wall": "065",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 5",
-      "image":"https://iili.io/2GOVn4.jpg"
+      "judul": "DImage 5",
+      "image": "https://iili.io/2GOVn4.jpg"
     },
     {
-      "id":66,
-      "id_wall":"066",
+      "id": 66,
+      "id_wall": "066",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 6",
-      "image":"https://iili.io/2GOWMl.jpg"
+      "judul": "DImage 6",
+      "image": "https://iili.io/2GOWMl.jpg"
     },
-	{
-      "id":67,
-      "id_wall":"067",
+    {
+      "id": 67,
+      "id_wall": "067",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 7",
-      "image":"https://iili.io/2GOXP2.jpg"
+      "judul": "DImage 7",
+      "image": "https://iili.io/2GOXP2.jpg"
     },
     {
-      "id":68,
-      "id_wall":"068",
+      "id": 68,
+      "id_wall": "068",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 8",
-      "image":"https://iili.io/2GOjFS.jpg"
+      "judul": "DImage 8",
+      "image": "https://iili.io/2GOjFS.jpg"
     },
     {
-      "id":69,
-      "id_wall":"069",
+      "id": 69,
+      "id_wall": "069",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 9",
-      "image":"https://iili.io/2GOwc7.jpg"
+      "judul": "DImage 9",
+      "image": "https://iili.io/2GOwc7.jpg"
     },
     {
-      "id":70,
-      "id_wall":"070",
+      "id": 70,
+      "id_wall": "070",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 10",
-      "image":"https://iili.io/2GONS9.jpg"
+      "judul": "DImage 10",
+      "image": "https://iili.io/2GONS9.jpg"
     },
     {
-      "id":71,
-      "id_wall":"071",
+      "id": 71,
+      "id_wall": "071",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 11",
-      "image":"https://iili.io/2GOe9e.jpg"
+      "judul": "DImage 11",
+      "image": "https://iili.io/2GOe9e.jpg"
     },
     {
-      "id":72,
-      "id_wall":"072",
+      "id": 72,
+      "id_wall": "072",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 12",
-      "image":"https://iili.io/2GOkAu.jpg"
+      "judul": "DImage 12",
+      "image": "https://iili.io/2GOkAu.jpg"
     },
-	{
-      "id":73,
-      "id_wall":"073",
+    {
+      "id": 73,
+      "id_wall": "073",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 13",
-      "image":"https://iili.io/2GOvwb.jpg"
+      "judul": "DImage 13",
+      "image": "https://iili.io/2GOvwb.jpg"
     },
     {
-      "id":74,
-      "id_wall":"074",
+      "id": 74,
+      "id_wall": "074",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 14",
-      "image":"https://iili.io/2GO8tj.jpg"
+      "judul": "DImage 14",
+      "image": "https://iili.io/2GO8tj.jpg"
     },
-      {
-      "id":75,
-      "id_wall":"075",
+    {
+      "id": 75,
+      "id_wall": "075",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 15",
-      "image":"https://iili.io/2GOUox.jpg"
+      "judul": "DImage 15",
+      "image": "https://iili.io/2GOUox.jpg"
     },
     {
-      "id":76,
-      "id_wall":"076",
+      "id": 76,
+      "id_wall": "076",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 16",
-      "image":"https://iili.io/2GOgMQ.jpg"
+      "judul": "DImage 16",
+      "image": "https://iili.io/2GOgMQ.jpg"
     },
-	{
-      "id":77,
-      "id_wall":"077",
+    {
+      "id": 77,
+      "id_wall": "077",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 17",
-      "image":"https://iili.io/2GOPcP.jpg"
+      "judul": "DImage 17",
+      "image": "https://iili.io/2GOPcP.jpg"
     },
     {
-      "id":78,
-      "id_wall":"078",
+      "id": 78,
+      "id_wall": "078",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 18",
-      "image":"https://iili.io/2GOrPV.jpg"
+      "judul": "DImage 18",
+      "image": "https://iili.io/2GOrPV.jpg"
     },
-      {
-      "id":79,
-      "id_wall":"079",
+    {
+      "id": 79,
+      "id_wall": "079",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 19",
-      "image":"https://iili.io/2GOiS1.jpg"
+      "judul": "DImage 19",
+      "image": "https://iili.io/2GOiS1.jpg"
     },
     {
-      "id":80,
-      "id_wall":"080",
+      "id": 80,
+      "id_wall": "080",
       "nama_cat": "Among Us 4",
-      "judul":"DImage 20",
-      "image":"https://iili.io/2GO6KB.jpg"
+      "judul": "DImage 20",
+      "image": "https://iili.io/2GO6KB.jpg"
     },
-	{
-      "id":81,
-      "id_wall":"081",
+    {
+      "id": 81,
+      "id_wall": "081",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 1",
-      "image":"https://iili.io/2GOLHF.jpg"
+      "judul": "EImage 1",
+      "image": "https://iili.io/2GOLHF.jpg"
     },
     {
-      "id":82,
-      "id_wall":"082",
+      "id": 82,
+      "id_wall": "082",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 2",
-      "image":"https://iili.io/2GOQAg.jpg"
+      "judul": "EImage 2",
+      "image": "https://iili.io/2GOQAg.jpg"
     },
     {
-      "id":83,
-      "id_wall":"083",
+      "id": 83,
+      "id_wall": "083",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 3",
-      "image":"https://iili.io/2GOtDJ.jpg"
+      "judul": "EImage 3",
+      "image": "https://iili.io/2GOtDJ.jpg"
     },
     {
-      "id":84,
-      "id_wall":"084",
+      "id": 84,
+      "id_wall": "084",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 4",
-      "image":"https://iili.io/2GOZNa.jpg"
+      "judul": "EImage 4",
+      "image": "https://iili.io/2GOZNa.jpg"
     },
     {
-      "id":85,
-      "id_wall":"085",
+      "id": 85,
+      "id_wall": "085",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 5",
-      "image":"https://iili.io/2GObov.jpg"
+      "judul": "EImage 5",
+      "image": "https://iili.io/2GObov.jpg"
     },
     {
-      "id":86,
-      "id_wall":"086",
+      "id": 86,
+      "id_wall": "086",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 6",
-      "image":"https://iili.io/2GOmVR.jpg"
+      "judul": "EImage 6",
+      "image": "https://iili.io/2GOmVR.jpg"
     },
-	{
-      "id":87,
-      "id_wall":"087",
+    {
+      "id": 87,
+      "id_wall": "087",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 7",
-      "image":"https://iili.io/2GOpPp.jpg"
+      "judul": "EImage 7",
+      "image": "https://iili.io/2GOpPp.jpg"
     },
     {
-      "id":88,
-      "id_wall":"088",
+      "id": 88,
+      "id_wall": "088",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 8",
-      "image":"https://iili.io/2GeHlI.jpg"
+      "judul": "EImage 8",
+      "image": "https://iili.io/2GeHlI.jpg"
     },
     {
-      "id":89,
-      "id_wall":"089",
+      "id": 89,
+      "id_wall": "089",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 9",
-      "image":"https://iili.io/2Ge9KN.jpg"
+      "judul": "EImage 9",
+      "image": "https://iili.io/2Ge9KN.jpg"
     },
     {
-      "id":90,
-      "id_wall":"090",
+      "id": 90,
+      "id_wall": "090",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 10",
-      "image":"https://iili.io/2GeJSt.jpg"
+      "judul": "EImage 10",
+      "image": "https://iili.io/2GeJSt.jpg"
     },
     {
-      "id":91,
-      "id_wall":"091",
+      "id": 91,
+      "id_wall": "091",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 11",
-      "image":"https://iili.io/2Ge2HX.jpg"
+      "judul": "EImage 11",
+      "image": "https://iili.io/2Ge2HX.jpg"
     },
     {
-      "id":92,
-      "id_wall":"092",
+      "id": 92,
+      "id_wall": "092",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 12",
-      "image":"https://iili.io/2Ge3Rn.jpg"
+      "judul": "EImage 12",
+      "image": "https://iili.io/2Ge3Rn.jpg"
     },
-	{
-      "id":93,
-      "id_wall":"093",
+    {
+      "id": 93,
+      "id_wall": "093",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 13",
-      "image":"https://iili.io/2GeFNs.jpg"
+      "judul": "EImage 13",
+      "image": "https://iili.io/2GeFNs.jpg"
     },
     {
-      "id":94,
-      "id_wall":"094",
+      "id": 94,
+      "id_wall": "094",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 14",
-      "image":"https://iili.io/2GeKDG.jpg"
+      "judul": "EImage 14",
+      "image": "https://iili.io/2GeKDG.jpg"
     },
-      {
-      "id":95,
-      "id_wall":"095",
+    {
+      "id": 95,
+      "id_wall": "095",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 15",
-      "image":"https://iili.io/2Geqxf.jpg"
+      "judul": "EImage 15",
+      "image": "https://iili.io/2Geqxf.jpg"
     },
     {
-      "id":96,
-      "id_wall":"096",
+      "id": 96,
+      "id_wall": "096",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 16",
-      "image":"https://iili.io/2GeBV4.jpg"
+      "judul": "EImage 16",
+      "image": "https://iili.io/2GeBV4.jpg"
     },
-	{
-      "id":97,
-      "id_wall":"097",
+    {
+      "id": 97,
+      "id_wall": "097",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 17",
-      "image":"https://iili.io/2GeCil.jpg"
+      "judul": "EImage 17",
+      "image": "https://iili.io/2GeCil.jpg"
     },
     {
-      "id":98,
-      "id_wall":"098",
+      "id": 98,
+      "id_wall": "098",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 18",
-      "image":"https://iili.io/2Geof2.jpg"
+      "judul": "EImage 18",
+      "image": "https://iili.io/2Geof2.jpg"
     },
-      {
-      "id":99,
-      "id_wall":"099",
+    {
+      "id": 99,
+      "id_wall": "099",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 19",
-      "image":"https://iili.io/2GexlS.jpg"
+      "judul": "EImage 19",
+      "image": "https://iili.io/2GexlS.jpg"
     },
     {
-      "id":100,
-      "id_wall":"100",
+      "id": 100,
+      "id_wall": "100",
       "nama_cat": "Among Us 5",
-      "judul":"EImage 20",
-      "image":"https://iili.io/2GeuRe.jpg"
-    },
-	    {
-      "id":101,
-      "id_wall":"101",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 1",
-      "image":"https://iili.io/2GezU7.jpg"
+      "judul": "EImage 20",
+      "image": "https://iili.io/2GeuRe.jpg"
     },
     {
-      "id":102,
-      "id_wall":"102",
+      "id": 101,
+      "id_wall": "101",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 2",
-      "image":"https://iili.io/2GeTJ9.jpg"
+      "judul": "FImage 1",
+      "image": "https://iili.io/2GezU7.jpg"
     },
     {
-      "id":103,
-      "id_wall":"103",
+      "id": 102,
+      "id_wall": "102",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 3",
-      "image":"https://iili.io/2GeAOu.jpg"
+      "judul": "FImage 2",
+      "image": "https://iili.io/2GeTJ9.jpg"
     },
     {
-      "id":104,
-      "id_wall":"104",
+      "id": 103,
+      "id_wall": "103",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 4",
-      "image":"https://iili.io/2Ge7xj.jpg"
+      "judul": "FImage 3",
+      "image": "https://iili.io/2GeAOu.jpg"
     },
     {
-      "id":105,
-      "id_wall":"105",
+      "id": 104,
+      "id_wall": "104",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 5",
-      "image":"https://iili.io/2GeRDb.jpg"
+      "judul": "FImage 4",
+      "image": "https://iili.io/2Ge7xj.jpg"
     },
     {
-      "id":106,
-      "id_wall":"106",
+      "id": 105,
+      "id_wall": "105",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 6",
-      "image":"https://iili.io/2GeYWx.jpg"
-    },
-	{
-      "id":107,
-      "id_wall":"107",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 7",
-      "image":"https://iili.io/2GelfV.jpg"
+      "judul": "FImage 5",
+      "image": "https://iili.io/2GeRDb.jpg"
     },
     {
-      "id":108,
-      "id_wall":"108",
+      "id": 106,
+      "id_wall": "106",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 8",
-      "image":"https://iili.io/2Ge00B.jpg"
+      "judul": "FImage 6",
+      "image": "https://iili.io/2GeYWx.jpg"
     },
     {
-      "id":109,
-      "id_wall":"109",
+      "id": 107,
+      "id_wall": "107",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 9",
-      "image":"https://iili.io/2GeaiQ.jpg"
+      "judul": "FImage 7",
+      "image": "https://iili.io/2GelfV.jpg"
     },
     {
-      "id":110,
-      "id_wall":"110",
+      "id": 108,
+      "id_wall": "108",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 10",
-      "image":"https://iili.io/2GeGJ1.jpg"
+      "judul": "FImage 8",
+      "image": "https://iili.io/2Ge00B.jpg"
     },
     {
-      "id":111,
-      "id_wall":"111",
+      "id": 109,
+      "id_wall": "109",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 11",
-      "image":"https://iili.io/2Ge1UP.jpg"
+      "judul": "FImage 9",
+      "image": "https://iili.io/2GeaiQ.jpg"
     },
     {
-      "id":112,
-      "id_wall":"112",
+      "id": 110,
+      "id_wall": "110",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 12",
-      "image":"https://iili.io/2GeM5F.jpg"
-    },
-	{
-      "id":113,
-      "id_wall":"113",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 13",
-      "image":"https://iili.io/2GeVOg.jpg"
+      "judul": "FImage 10",
+      "image": "https://iili.io/2GeGJ1.jpg"
     },
     {
-      "id":114,
-      "id_wall":"114",
+      "id": 111,
+      "id_wall": "111",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 14",
-      "image":"https://iili.io/2GehzJ.jpg"
-    },
-      {
-      "id":115,
-      "id_wall":"115",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 15",
-      "image":"https://iili.io/2GeWba.jpg"
+      "judul": "FImage 11",
+      "image": "https://iili.io/2Ge1UP.jpg"
     },
     {
-      "id":116,
-      "id_wall":"116",
+      "id": 112,
+      "id_wall": "112",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 16",
-      "image":"https://iili.io/2GeOfp.jpg"
+      "judul": "FImage 12",
+      "image": "https://iili.io/2GeM5F.jpg"
     },
     {
-      "id":117,
-      "id_wall":"117",
+      "id": 113,
+      "id_wall": "113",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 17",
-      "image":"https://iili.io/2GejWv.jpg"
+      "judul": "FImage 13",
+      "image": "https://iili.io/2GeVOg.jpg"
     },
     {
-      "id":118,
-      "id_wall":"118",
+      "id": 114,
+      "id_wall": "114",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 18",
-      "image":"https://iili.io/2GewsR.jpg"
+      "judul": "FImage 14",
+      "image": "https://iili.io/2GehzJ.jpg"
     },
     {
-      "id":119,
-      "id_wall":"119",
+      "id": 115,
+      "id_wall": "115",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 19",
-      "image":"https://iili.io/2Gee0N.jpg"
+      "judul": "FImage 15",
+      "image": "https://iili.io/2GeWba.jpg"
     },
     {
-      "id":120,
-      "id_wall":"120",
+      "id": 116,
+      "id_wall": "116",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 20",
-      "image":"https://iili.io/2GekgI.jpg"
+      "judul": "FImage 16",
+      "image": "https://iili.io/2GeOfp.jpg"
     },
     {
-      "id":121,
-      "id_wall":"121",
+      "id": 117,
+      "id_wall": "117",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 21",
-      "image":"https://i.pinimg.com/564x/f3/f6/35/f3f6358e429cf198d7d19ca1e76cca03.jpg"
+      "judul": "FImage 17",
+      "image": "https://iili.io/2GejWv.jpg"
     },
     {
-      "id":122,
-      "id_wall":"122",
+      "id": 118,
+      "id_wall": "118",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 22",
-      "image":"https://i.pinimg.com/564x/84/48/d0/8448d01312f6a21ea995ddee0e264da3.jpg"
+      "judul": "FImage 18",
+      "image": "https://iili.io/2GewsR.jpg"
     },
     {
-      "id":123,
-      "id_wall":"123",
+      "id": 119,
+      "id_wall": "119",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 23",
-      "image":"https://i.pinimg.com/564x/10/15/2b/10152b1938fb63d05206eddbce130d96.jpg"
+      "judul": "FImage 19",
+      "image": "https://iili.io/2Gee0N.jpg"
     },
     {
-      "id":124,
-      "id_wall":"124",
+      "id": 120,
+      "id_wall": "120",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 24",
-      "image":"https://i.pinimg.com/564x/be/f2/96/bef29645277dd4acad02259adb5e43bf.jpg"
+      "judul": "FImage 20",
+      "image": "https://iili.io/2GekgI.jpg"
     },
     {
-      "id":125,
-      "id_wall":"125",
+      "id": 121,
+      "id_wall": "121",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 25",
-      "image":"https://i.pinimg.com/564x/db/6a/1e/db6a1eeb381f47bf98f3f1f1ec6cf0da.jpg"
+      "judul": "FImage 21",
+      "image": "https://i.pinimg.com/564x/f3/f6/35/f3f6358e429cf198d7d19ca1e76cca03.jpg"
     },
     {
-      "id":126,
-      "id_wall":"126",
+      "id": 122,
+      "id_wall": "122",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 26",
-      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/10/Among-Us-Android-Wallpaper-768x1365.png"
+      "judul": "FImage 22",
+      "image": "https://i.pinimg.com/564x/84/48/d0/8448d01312f6a21ea995ddee0e264da3.jpg"
     },
     {
-      "id":127,
-      "id_wall":"127",
+      "id": 123,
+      "id_wall": "123",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 27",
-      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/10/Among-Us-Game-Wallpaper-768x1365.jpg"
+      "judul": "FImage 23",
+      "image": "https://i.pinimg.com/564x/10/15/2b/10152b1938fb63d05206eddbce130d96.jpg"
     },
     {
-      "id":128,
-      "id_wall":"128",
+      "id": 124,
+      "id_wall": "124",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 28",
-      "image":"https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/10/among-us-space-background-6.jpg?w=640&ssl=1"
+      "judul": "FImage 24",
+      "image": "https://i.pinimg.com/564x/be/f2/96/bef29645277dd4acad02259adb5e43bf.jpg"
     },
     {
-      "id":129,
-      "id_wall":"129",
+      "id": 125,
+      "id_wall": "125",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 29",
-      "image":"https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/10/among-us-space-background-11.jpg?w=720&ssl=1"
+      "judul": "FImage 25",
+      "image": "https://i.pinimg.com/564x/db/6a/1e/db6a1eeb381f47bf98f3f1f1ec6cf0da.jpg"
     },
     {
-      "id":130,
-      "id_wall":"130",
+      "id": 126,
+      "id_wall": "126",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 30",
-      "image":"https://i2.wp.com/nerdschalk.com/wp-content/uploads/2020/10/among-us-space-background-12.jpg?w=720&ssl=1"
+      "judul": "FImage 26",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/10/Among-Us-Android-Wallpaper-768x1365.png"
     },
     {
-      "id":131,
-      "id_wall":"131",
+      "id": 127,
+      "id_wall": "127",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 31",
-      "image":"https://among-us.io/wp-content/gallery/mobile/AmongUs_mobile_wp13.jpg"
+      "judul": "FImage 27",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/10/Among-Us-Game-Wallpaper-768x1365.jpg"
     },
     {
-      "id":132,
-      "id_wall":"132",
+      "id": 128,
+      "id_wall": "128",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 32",
-      "image":"https://among-us.io/wp-content/gallery/mobile/AmongUs_mobile_wp4.jpg"
-    },
-	{
-      "id":133,
-      "id_wall":"133",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 33",
-      "image":"https://i.pinimg.com/564x/68/38/f0/6838f0c58bf0731710e988429f505119.jpg"
+      "judul": "FImage 28",
+      "image": "https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/10/among-us-space-background-6.jpg?w=640&ssl=1"
     },
     {
-      "id":134,
-      "id_wall":"134",
+      "id": 129,
+      "id_wall": "129",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 34",
-      "image":"https://i.pinimg.com/564x/fe/2b/a5/fe2ba5d66990d00457ee6a7c3cdd9489.jpg"
+      "judul": "FImage 29",
+      "image": "https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/10/among-us-space-background-11.jpg?w=720&ssl=1"
     },
     {
-      "id":135,
-      "id_wall":"135",
+      "id": 130,
+      "id_wall": "130",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 35",
-      "image":"https://i.pinimg.com/564x/0c/00/81/0c0081bc1fe7f67e636641230e12ecf3.jpg"
+      "judul": "FImage 30",
+      "image": "https://i2.wp.com/nerdschalk.com/wp-content/uploads/2020/10/among-us-space-background-12.jpg?w=720&ssl=1"
     },
     {
-      "id":136,
-      "id_wall":"136",
+      "id": 131,
+      "id_wall": "131",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 36",
-      "image":"https://i.pinimg.com/564x/a0/aa/10/a0aa10e2a2699e2f44e17eb12d5eff3d.jpg"
+      "judul": "FImage 31",
+      "image": "https://among-us.io/wp-content/gallery/mobile/AmongUs_mobile_wp13.jpg"
     },
     {
-      "id":137,
-      "id_wall":"137",
+      "id": 132,
+      "id_wall": "132",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 37",
-      "image":"https://i.pinimg.com/564x/c2/9f/7b/c29f7bb5c0b2006a0cf7609c2a8de44e.jpg"
+      "judul": "FImage 32",
+      "image": "https://among-us.io/wp-content/gallery/mobile/AmongUs_mobile_wp4.jpg"
     },
     {
-      "id":138,
-      "id_wall":"138",
+      "id": 133,
+      "id_wall": "133",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 38",
-      "image":"https://i.pinimg.com/564x/21/1b/62/211b62d08c64afd84003a9a92ebe0cc1.jpg"
-    },
-	{
-      "id":139,
-      "id_wall":"139",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 39",
-      "image":"https://i.pinimg.com/564x/17/2a/b2/172ab25139768f07bc462852057dcab8.jpg"
+      "judul": "FImage 33",
+      "image": "https://i.pinimg.com/564x/68/38/f0/6838f0c58bf0731710e988429f505119.jpg"
     },
     {
-      "id":140,
-      "id_wall":"140",
+      "id": 134,
+      "id_wall": "134",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 40",
-      "image":"https://i.pinimg.com/564x/bd/71/8a/bd718a28627d4c81d23b9c52103855fe.jpg"
+      "judul": "FImage 34",
+      "image": "https://i.pinimg.com/564x/fe/2b/a5/fe2ba5d66990d00457ee6a7c3cdd9489.jpg"
     },
     {
-      "id":141,
-      "id_wall":"141",
+      "id": 135,
+      "id_wall": "135",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 41",
-      "image":"https://i.pinimg.com/564x/e4/7c/92/e47c925c6d8aea2e729a5012e00ab11c.jpg"
+      "judul": "FImage 35",
+      "image": "https://i.pinimg.com/564x/0c/00/81/0c0081bc1fe7f67e636641230e12ecf3.jpg"
     },
     {
-      "id":142,
-      "id_wall":"142",
+      "id": 136,
+      "id_wall": "136",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 42",
-      "image":"https://i.pinimg.com/564x/79/a3/71/79a371855721a2e4d2fcd37e3e24bfc8.jpg"
-    },
-	{
-      "id":143,
-      "id_wall":"143",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 43",
-      "image":"https://i.pinimg.com/564x/54/95/16/54951673907523b525a76c95a2bc40c5.jpg"
+      "judul": "FImage 36",
+      "image": "https://i.pinimg.com/564x/a0/aa/10/a0aa10e2a2699e2f44e17eb12d5eff3d.jpg"
     },
     {
-      "id":144,
-      "id_wall":"144",
+      "id": 137,
+      "id_wall": "137",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 44",
-      "image":"https://i.pinimg.com/564x/84/fd/c6/84fdc6e0109c3865579d566f4fe251df.jpg"
+      "judul": "FImage 37",
+      "image": "https://i.pinimg.com/564x/c2/9f/7b/c29f7bb5c0b2006a0cf7609c2a8de44e.jpg"
     },
     {
-      "id":145,
-      "id_wall":"145",
+      "id": 138,
+      "id_wall": "138",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 45",
-      "image":"https://i.pinimg.com/564x/c3/a2/64/c3a264aa5e278c8dec1e4452b373a15b.jpg"
+      "judul": "FImage 38",
+      "image": "https://i.pinimg.com/564x/21/1b/62/211b62d08c64afd84003a9a92ebe0cc1.jpg"
     },
     {
-      "id":146,
-      "id_wall":"146",
+      "id": 139,
+      "id_wall": "139",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 46",
-      "image":"https://i.pinimg.com/564x/de/2a/56/de2a56e14cee2114c938b712d8d44349.jpg"
+      "judul": "FImage 39",
+      "image": "https://i.pinimg.com/564x/17/2a/b2/172ab25139768f07bc462852057dcab8.jpg"
     },
     {
-      "id":147,
-      "id_wall":"147",
+      "id": 140,
+      "id_wall": "140",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 47",
-      "image":"https://i.pinimg.com/564x/1f/64/48/1f6448720faec7d01693f5ea9d059538.jpg"
+      "judul": "FImage 40",
+      "image": "https://i.pinimg.com/564x/bd/71/8a/bd718a28627d4c81d23b9c52103855fe.jpg"
     },
     {
-      "id":148,
-      "id_wall":"148",
+      "id": 141,
+      "id_wall": "141",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 48",
-      "image":"https://i.pinimg.com/564x/f1/c9/29/f1c9296a36923cd82273948f47e7bb3e.jpg"
-    },
-	{
-      "id":149,
-      "id_wall":"149",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 49",
-      "image":"https://i.pinimg.com/564x/be/a6/d1/bea6d10fe6430b0a84ecf36dd32df4e7.jpg"
+      "judul": "FImage 41",
+      "image": "https://i.pinimg.com/564x/e4/7c/92/e47c925c6d8aea2e729a5012e00ab11c.jpg"
     },
     {
-      "id":150,
-      "id_wall":"150",
+      "id": 142,
+      "id_wall": "142",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 50",
-      "image":"https://i.pinimg.com/564x/ab/ed/92/abed92fdf6a04f012b0b6d7cea93042d.jpg"
+      "judul": "FImage 42",
+      "image": "https://i.pinimg.com/564x/79/a3/71/79a371855721a2e4d2fcd37e3e24bfc8.jpg"
     },
     {
-      "id":151,
-      "id_wall":"151",
+      "id": 143,
+      "id_wall": "143",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 51",
-      "image":"https://i.pinimg.com/564x/a1/40/4b/a1404b267239cc44849302d4c2232fed.jpg"
+      "judul": "FImage 43",
+      "image": "https://i.pinimg.com/564x/54/95/16/54951673907523b525a76c95a2bc40c5.jpg"
     },
     {
-      "id":152,
-      "id_wall":"152",
+      "id": 144,
+      "id_wall": "144",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 52",
-      "image":"https://i.pinimg.com/564x/68/9e/87/689e87a06966904c4b9b4bfb26e56459.jpg"
-    },
-	{
-      "id":153,
-      "id_wall":"153",
-      "nama_cat": "Among Us 6",
-      "judul":"FImage 53",
-      "image":"https://i.pinimg.com/564x/44/22/c5/4422c5cfcc923a8617f94fc1de46c50d.jpg"
+      "judul": "FImage 44",
+      "image": "https://i.pinimg.com/564x/84/fd/c6/84fdc6e0109c3865579d566f4fe251df.jpg"
     },
     {
-      "id":154,
-      "id_wall":"154",
+      "id": 145,
+      "id_wall": "145",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 54",
-      "image":"https://i.pinimg.com/564x/c2/a8/0c/c2a80cc5e10dc19bed30c22b0e4ca0fd.jpg"
+      "judul": "FImage 45",
+      "image": "https://i.pinimg.com/564x/c3/a2/64/c3a264aa5e278c8dec1e4452b373a15b.jpg"
     },
     {
-      "id":155,
-      "id_wall":"155",
+      "id": 146,
+      "id_wall": "146",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 55",
-      "image":"https://i.pinimg.com/564x/7f/a4/a6/7fa4a654ef4457111663c065918ad62e.jpg"
+      "judul": "FImage 46",
+      "image": "https://i.pinimg.com/564x/de/2a/56/de2a56e14cee2114c938b712d8d44349.jpg"
     },
     {
-      "id":156,
-      "id_wall":"156",
+      "id": 147,
+      "id_wall": "147",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 56",
-      "image":"https://i.pinimg.com/564x/4f/bd/a5/4fbda5abefa65f484f72ed50b74d7c0b.jpg"
+      "judul": "FImage 47",
+      "image": "https://i.pinimg.com/564x/1f/64/48/1f6448720faec7d01693f5ea9d059538.jpg"
     },
     {
-      "id":157,
-      "id_wall":"157",
+      "id": 148,
+      "id_wall": "148",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 57",
-      "image":"https://i.pinimg.com/564x/85/76/5e/85765eb71bda95aa78cc09e34fff1c1e.jpg"
+      "judul": "FImage 48",
+      "image": "https://i.pinimg.com/564x/f1/c9/29/f1c9296a36923cd82273948f47e7bb3e.jpg"
     },
     {
-      "id":158,
-      "id_wall":"158",
+      "id": 149,
+      "id_wall": "149",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 58",
-      "image":"https://i.pinimg.com/564x/48/6e/ea/486eea1c1d98617f39f88fd93397dfab.jpg"
+      "judul": "FImage 49",
+      "image": "https://i.pinimg.com/564x/be/a6/d1/bea6d10fe6430b0a84ecf36dd32df4e7.jpg"
     },
     {
-      "id":159,
-      "id_wall":"159",
+      "id": 150,
+      "id_wall": "150",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 59",
-      "image":"https://i.pinimg.com/474x/11/7c/92/117c9288de44cb37da40b27165910dfb.jpg"
+      "judul": "FImage 50",
+      "image": "https://i.pinimg.com/564x/ab/ed/92/abed92fdf6a04f012b0b6d7cea93042d.jpg"
     },
     {
-      "id":160,
-      "id_wall":"160",
+      "id": 151,
+      "id_wall": "151",
       "nama_cat": "Among Us 6",
-      "judul":"FImage 60",
-      "image":"https://i.pinimg.com/564x/65/6c/df/656cdfe179f9e67d2a76ef5b7457420e.jpg"
+      "judul": "FImage 51",
+      "image": "https://i.pinimg.com/564x/a1/40/4b/a1404b267239cc44849302d4c2232fed.jpg"
+    },
+    {
+      "id": 152,
+      "id_wall": "152",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 52",
+      "image": "https://i.pinimg.com/564x/68/9e/87/689e87a06966904c4b9b4bfb26e56459.jpg"
+    },
+    {
+      "id": 153,
+      "id_wall": "153",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 53",
+      "image": "https://i.pinimg.com/564x/44/22/c5/4422c5cfcc923a8617f94fc1de46c50d.jpg"
+    },
+    {
+      "id": 154,
+      "id_wall": "154",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 54",
+      "image": "https://i.pinimg.com/564x/c2/a8/0c/c2a80cc5e10dc19bed30c22b0e4ca0fd.jpg"
+    },
+    {
+      "id": 155,
+      "id_wall": "155",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 55",
+      "image": "https://i.pinimg.com/564x/7f/a4/a6/7fa4a654ef4457111663c065918ad62e.jpg"
+    },
+    {
+      "id": 156,
+      "id_wall": "156",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 56",
+      "image": "https://i.pinimg.com/564x/4f/bd/a5/4fbda5abefa65f484f72ed50b74d7c0b.jpg"
+    },
+    {
+      "id": 157,
+      "id_wall": "157",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 57",
+      "image": "https://i.pinimg.com/564x/85/76/5e/85765eb71bda95aa78cc09e34fff1c1e.jpg"
+    },
+    {
+      "id": 158,
+      "id_wall": "158",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 58",
+      "image": "https://i.pinimg.com/564x/48/6e/ea/486eea1c1d98617f39f88fd93397dfab.jpg"
+    },
+    {
+      "id": 159,
+      "id_wall": "159",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 59",
+      "image": "https://i.pinimg.com/474x/11/7c/92/117c9288de44cb37da40b27165910dfb.jpg"
+    },
+    {
+      "id": 160,
+      "id_wall": "160",
+      "nama_cat": "Among Us 6",
+      "judul": "FImage 60",
+      "image": "https://i.pinimg.com/564x/65/6c/df/656cdfe179f9e67d2a76ef5b7457420e.jpg"
     }
-
   ]
 }
