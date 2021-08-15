@@ -30,9 +30,9 @@
     },
     {
       "id": 2,
-      "judul": "Brawlhalla Wallpapers",
-      "image": "https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
-      "link": "https://appgallery.huawei.com/#/app/C102703635"
+      "judul": "Pop It Fidget",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/da2b6151a8f24c4da97ac4125e088f92.png",
+      "link": "https://appgallery.huawei.com/#/app/C104583733"
     },
     {
       "id": 3,
@@ -153,6 +153,12 @@
       "judul": "Mobile Legend Wallpapers 4K",
       "image": "https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
       "link": "https://appgallery.huawei.com/#/app/C102987745"
+    },
+    {
+      "id": 23,
+      "judul": "Brawlhalla Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
+      "link": "https://appgallery.huawei.com/#/app/C102703635"
     }
   ],
   "Categories": [
