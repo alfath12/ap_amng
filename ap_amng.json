@@ -24,9 +24,9 @@
   "More": [
     {
       "id": 1,
-      "judul": "Wallcraft – Wallpapers HD",
-      "image": "https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
-      "link": "https://appgallery.huawei.com/#/app/C104531011"
+      "judul": "Squid Game",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/34ad9b9c2c094bbe886c6af43dc83d01.png",
+      "link": "https://appgallery.huawei.com/#/app/C104798527"
     },
     {
       "id": 2,
@@ -165,6 +165,12 @@
       "judul": "Toca Life World",
       "image": "https://appimg2.dbankcdn.com/application/icon144/65/20f980ffc2884e44b5c4f0c2d137d813.png",
       "link": "https://appgallery.huawei.com/#/app/C103858971"
+    },
+    {
+      "id": 25,
+      "judul": "Wallcraft – Wallpapers HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/e30e8af72e4242c5bfde33f700b8b17c.png",
+      "link": "https://appgallery.huawei.com/#/app/C104531011"
     }
   ],
   "Categories": [
